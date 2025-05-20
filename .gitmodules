@@ -1,0 +1,3 @@
+[submodule "packages/device_preview"]
+	path = packages/device_preview
+	url = https://github.com/rochi88/device_preview.git
