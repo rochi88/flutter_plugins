@@ -1,3 +1,6 @@
 [submodule "packages/device_preview"]
 	path = packages/device_preview
 	url = https://github.com/rochi88/device_preview.git
+[submodule "packages/map_camera_location_flutter"]
+	path = packages/map_camera_location_flutter
+	url = git@github.com:rochi88/map_camera_location_flutter.git
